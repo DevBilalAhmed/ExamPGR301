@@ -1,3 +1,9 @@
+# PGR301
+https://www.kristiania.no/studieportal/school-of-economics-innovation-and-technology/bachelorniva/pgr301/devops-i-skyen/
+## Grade A
+This Exam was based on code mainly written by the teacher, but the exam was based on solving problems mainly related to AWS, Github Actions And writing terraform code to do so. README2, contains the Exam Problems we had to solve, and how they were solved can be seen through commits.
+
+
 # EXAMPGR301
 ![samdeployment](https://github.com/bilalStudy/ExamPGR301/actions/workflows/sam-deploy-based-on-branch.yml/badge.svg)
 ![ECRAndDashboardDeployment](https://github.com/bilalStudy/ExamPGR301/actions/workflows/dockerimage-to-ECR.yml/badge.svg)
